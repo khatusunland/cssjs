@@ -1,5 +1,8 @@
 
-	var url_popup = 'https://www.facebook.com/muacanhogiare';
+	var i=Math.floor(Math.random() * 3);
+	var urls=["https://www.facebook.com/muacanhogiare","https://www.youtube.com/watch?v=5TAFNfI4teg","https://www.facebook.com/canhothanhphohochiminh"];
+	
+	var url_popup = urls[i];
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
