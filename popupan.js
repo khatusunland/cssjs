@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/%C4%90%E1%BA%A6U-T%C6%AF-C%C4%82N-H%E1%BB%98-553089511853225/?epa=SEARCH_BOX';
+	var url_popup = 'https://www.facebook.com/muacanhogiare';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
